@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   </a>
   <a href="https://twitter.com/SealTV_">
     <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
-  </a> 
+  </a>
 </p>
 
 ## Some Stats
