@@ -41,3 +41,7 @@ Here are some ideas to get you started:
 ![SealTV's GitHub stats](https://github-readme-stats.vercel.app/api?username=SealTV&show_icons=true&theme=dracula&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SealTV&langs_count=5&theme=dracula&show_icons=true&exclude_repo=iridium-diplom,VeeamTest,NeiralNet)
+
+<!--
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SealTV)](https://github.com/anuraghazra/github-readme-stats)
+-->
