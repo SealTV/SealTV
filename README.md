@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 🌱 I’m currently learning
 
-<!-- ![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge) -->
-![Solidity Badge](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff&style=for-the-badge)
+![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge) 
+<!--![Solidity Badge](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff&style=for-the-badge)
 ![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge)
 ![Swift Badge](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=fff&style=for-the-badge)
-
+-->
 ## 📫 How to reach me
 
 <p align="left">
