@@ -1,7 +1,7 @@
-#
+# Hi! I'm SealTV 🦭
 
-![Hi!](./header.png)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=SealTV.visitor-badge)
+<!-- ![Hi!](./header.png) -->
+<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=SealTV.visitor-badge) -->
 
 <!--
 **SealTV/SealTV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -47,9 +47,10 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-## Some Stats
+_____
+<!-- ## Some Stats -->
 
-![SealTV's GitHub stats](https://github-readme-stats.vercel.app/api?username=SealTV&show_icons=true&theme=dracula&count_private=true)
+<!-- ![SealTV's GitHub stats](https://github-readme-stats.vercel.app/api?username=SealTV&show_icons=true&theme=dracula&count_private=true) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SealTV&langs_count=5&theme=dracula&show_icons=true&exclude_repo=iridium-diplom,VeeamTest,NeiralNet)
 
