@@ -50,9 +50,7 @@ Here are some ideas to get you started:
 _____
 <!-- ## Some Stats -->
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=whythebrixxx&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<img src="https://streak-stats.demolab.com?user=sealtv&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
 <!-- ![SealTV's GitHub stats](https://github-readme-stats.vercel.app/api?username=SealTV&show_icons=true&theme=dracula&count_private=true) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SealTV&langs_count=5&theme=dracula&show_icons=true&exclude_repo=iridium-diplom,VeeamTest,NeiralNet)
