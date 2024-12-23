@@ -7,10 +7,6 @@
 
 I'm a passionate backend engineer with expertise in Go, JavaScript, Rust, and blockchain technologies. Currently working as a backend developer at Cielo Finance, where I build scalable services for blockchain data and optimize high-performance databases like ClickHouse and PostgreSQL. I'm always eager to take on new challenges and improve my skills in distributed systems and cloud technologies.
 
-## 🛠️ Technologies & Tools
-
-... (список остается как есть)
-
 ## 🌱 Currently Learning
 
 - Advanced Rust programming techniques: focusing on memory optimization and concurrency patterns.
